@@ -14,6 +14,7 @@
         android:layout_above="@+id/add_party_person_button"/>
 
     <Button
+        style="@style/Widget.AppCompat.Button.Colored"
         android:id="@+id/add_party_person_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
